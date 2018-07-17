@@ -4,7 +4,7 @@ public class Condition {
 	
 
 	public static void main(String[] args) {
-		boolean bool = true;
+		boolean bool = false;
 		
 		
 		if (bool) {
@@ -21,7 +21,7 @@ public class Condition {
 			System.out.println("30대 군요.");
 		} else if (age >= 20) {
 			System.out.println("20대 군요.");
-		} else if (age >= 20) {
+		} else if (age >= 10) {
 			System.out.println("10대 군요.");
 		} else {
 			System.out.println("어르신!!");

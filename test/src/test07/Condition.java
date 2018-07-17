@@ -20,7 +20,7 @@ public class Condition {
 			endNum = temp;
 		}
 	
-		int i;
+		int i;                
 		for(i = startNum; i <= endNum; i++) {
 			System.out.println(i);
 		}

@@ -2,7 +2,7 @@ package test09;
 
 public class ObjectTest{
 	int num = 3;
-	boolean bool = true;
+	boolean bl = true;
 	
 	int getNum() {
 		return num;

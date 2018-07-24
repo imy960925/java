@@ -6,7 +6,7 @@ public class WrapDataType {
 		int i =10;
 		Integer integer = 10;
 		char c = 'a';
-		character ch = 'a';
+		Character ch = 'a';
 		
 		Long lon = 10l;
 		Boolean bl =true;

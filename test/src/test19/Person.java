@@ -26,4 +26,4 @@ public class Person implements Action {
 		}
 	}
 
-}
+

@@ -21,7 +21,7 @@ public class ObjectTest{
 	
 	void test2() {
 		System.out.println(num);
-		System.out.println(bool);
+		System.out.println(bl);
 		test();
 	}
 	
